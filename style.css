@@ -1,0 +1,62 @@
+div {
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px white;
+  margin:30px 70px;
+}
+
+.container {
+  padding: 40px
+  box-shadow: 0 10px 30px white;
+  margin:30px 70px;
+}
+
+h1{
+  color:blue;
+  font-size: 30px;
+  font-family: 'helvetica';
+}
+
+h2 {
+  color: blue;
+  font-size: 25px;
+  font-family: helvetica;
+}
+
+p {
+  font-family: 'helvetica';
+  font-size: 22;
+    }
+
+body {
+  color: rgb(10, 10, 10);
+  background-color: #DFDDDF;
+  text-align: center;
+  }
+
+body {
+  font-size: 20px;
+  line-height: 1.8;
+  letter-spacing: 1px;
+}
+
+img {
+  width: 160px;
+  height: 210px;
+  border: 5px #1c87c9;
+  border-style: dashed;
+  background-color: grey;
+  border-radius: 10px;
+  }
+
+a {
+font-family: Helvetica;
+font-color: black;
+font-size: 22px;
+}
+
+button{
+  background-color: grey;
+  margin: 10px;
+  border-radius: 10px;
+  }
